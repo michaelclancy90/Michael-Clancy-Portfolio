@@ -13,8 +13,8 @@ For this project, my goal was to create a personal portfolio that would both dem
 
 ## **Links**
 
-[Updated Website](https://michaelclancy90.github.io/Personal-Portfolio/)
 
+[My Personal Portfolio](https://michaelclancy90.github.io/Personal-Portfolio/)
 ## **Deployed Site**
 
 See below for how site will look.
